@@ -1,0 +1,7 @@
+::ChangeLog
+:Updated
+:Bug fix
+:Cheats
+:Full version
+::Bugs
+:None
