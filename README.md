@@ -1,5 +1,5 @@
 # Six Nights At Freddy's (Bat Game)
-This was a batch game I coded when I was roughly 10 years old back in September 2017.
+This was a batch game I coded when I was roughly 10 years old back in September 2017 (A lot of the project's lost to time).
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
